@@ -44,9 +44,4 @@ Requisitos: .NET SDK (8 o superior) y R.E.P.O. instalado; otra ruta con `REPO_DI
   Necesita el token de la cuenta de servicio del equipo en `../../.keys/thunderstore.env` como
   `TCLI_AUTH_TOKEN=...`; nunca se imprime.
 
-## Pendiente de comprobar en el juego
-
-- Que el número queda bien colocado en los huecos y en la mano (en Debug el log escribe el tamaño de cada
-  indicador). Si no, se ajusta con `OffsetX`/`OffsetY` o cambiando el anclaje en `AmmoLabel.Init`.
-
 No afiliado a semiwork.
